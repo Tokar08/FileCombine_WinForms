@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cleaner_Renamer_Arhiver/1.0.0": {
+        "dependencies": {
+          "FileCombine": "1.0.0"
+        },
+        "runtime": {
+          "Cleaner_Renamer_Arhiver.dll": {}
+        }
+      },
+      "FileCombine/1.0.0": {
+        "runtime": {
+          "FileCombine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cleaner_Renamer_Arhiver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileCombine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

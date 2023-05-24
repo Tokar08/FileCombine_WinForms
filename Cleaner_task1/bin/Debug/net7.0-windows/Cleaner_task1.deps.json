@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cleaner_task1/1.0.0": {
+        "dependencies": {
+          "FileCombine": "1.0.0"
+        },
+        "runtime": {
+          "Cleaner_task1.dll": {}
+        }
+      },
+      "FileCombine/1.0.0": {
+        "runtime": {
+          "FIleCombine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cleaner_task1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileCombine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
